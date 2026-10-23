@@ -1,0 +1,33 @@
+{
+  "language": "khk",
+  "name": "Mongolian (Halh)",
+  "family": "Mongolic",
+  "morph_type": "agglutinative",
+  "n_sentences": 2009,
+  "n_candidate_types": 11417,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.0,
+  "analyzer_coverage_sigmorphon": 0.0093,
+  "analyzer_coverage_annotated": 0.0093,
+  "analyzer_coverage_any": 0.0093,
+  "tier_counts_available": {
+    "A": 0,
+    "B": 106,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "B": 106
+  },
+  "n_gold": 106,
+  "n_gold_with_boundary": 69,
+  "n_gold_annotated": 106,
+  "n_gold_annotated_with_boundary": 69,
+  "mean_morphs_per_word": 1.689,
+  "sources": {
+    "morfessor": false,
+    "unimorph": false,
+    "sigmorphon": true
+  },
+  "morfessor_source": "none"
+}

@@ -1,0 +1,36 @@
+{
+  "language": "kan",
+  "name": "Kannada",
+  "family": "Dravidian",
+  "morph_type": "agglutinative",
+  "n_sentences": 2009,
+  "n_candidate_types": 14343,
+  "analyzer_coverage_morfessor": 0.8153,
+  "analyzer_coverage_unimorph": 0.0206,
+  "analyzer_coverage_sigmorphon": 0.0,
+  "analyzer_coverage_annotated": 0.0206,
+  "analyzer_coverage_any": 0.8155,
+  "tier_counts_available": {
+    "A": 100,
+    "B": 195,
+    "C": 6364,
+    "D": 4030
+  },
+  "tier_counts": {
+    "A": 100,
+    "B": 195,
+    "C": 1205,
+    "D": 500
+  },
+  "n_gold": 2000,
+  "n_gold_with_boundary": 1500,
+  "n_gold_annotated": 295,
+  "n_gold_annotated_with_boundary": 295,
+  "mean_morphs_per_word": 1.755,
+  "sources": {
+    "morfessor": true,
+    "unimorph": true,
+    "sigmorphon": false
+  },
+  "morfessor_source": "pretrained-indicnlp"
+}

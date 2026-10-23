@@ -1,0 +1,33 @@
+{
+  "language": "urd",
+  "name": "Urdu",
+  "family": "Indo-Aryan",
+  "morph_type": "fusional",
+  "n_sentences": 2009,
+  "n_candidate_types": 7427,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.0166,
+  "analyzer_coverage_sigmorphon": 0.0,
+  "analyzer_coverage_annotated": 0.0166,
+  "analyzer_coverage_any": 0.0166,
+  "tier_counts_available": {
+    "A": 0,
+    "B": 123,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "B": 123
+  },
+  "n_gold": 123,
+  "n_gold_with_boundary": 123,
+  "n_gold_annotated": 123,
+  "n_gold_annotated_with_boundary": 123,
+  "mean_morphs_per_word": 2.0,
+  "sources": {
+    "morfessor": false,
+    "unimorph": true,
+    "sigmorphon": false
+  },
+  "morfessor_source": "none"
+}

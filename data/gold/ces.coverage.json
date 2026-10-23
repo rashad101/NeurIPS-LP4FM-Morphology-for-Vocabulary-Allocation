@@ -1,0 +1,34 @@
+{
+  "language": "ces",
+  "name": "Czech",
+  "family": "Slavic",
+  "morph_type": "fusional",
+  "n_sentences": 2009,
+  "n_candidate_types": 13751,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.199,
+  "analyzer_coverage_sigmorphon": 0.3108,
+  "analyzer_coverage_annotated": 0.4244,
+  "analyzer_coverage_any": 0.4244,
+  "tier_counts_available": {
+    "A": 1025,
+    "B": 4811,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "A": 1025,
+    "B": 975
+  },
+  "n_gold": 2000,
+  "n_gold_with_boundary": 1919,
+  "n_gold_annotated": 2000,
+  "n_gold_annotated_with_boundary": 1919,
+  "mean_morphs_per_word": 2.835,
+  "sources": {
+    "morfessor": false,
+    "unimorph": true,
+    "sigmorphon": true
+  },
+  "morfessor_source": "none"
+}

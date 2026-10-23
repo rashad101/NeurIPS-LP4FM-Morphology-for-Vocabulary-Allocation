@@ -1,0 +1,34 @@
+{
+  "language": "spa",
+  "name": "Spanish",
+  "family": "Romance",
+  "morph_type": "fusional",
+  "n_sentences": 2009,
+  "n_candidate_types": 10262,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.4699,
+  "analyzer_coverage_sigmorphon": 0.3121,
+  "analyzer_coverage_annotated": 0.6546,
+  "analyzer_coverage_any": 0.6546,
+  "tier_counts_available": {
+    "A": 1258,
+    "B": 5460,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "A": 1258,
+    "B": 742
+  },
+  "n_gold": 2000,
+  "n_gold_with_boundary": 1611,
+  "n_gold_annotated": 2000,
+  "n_gold_annotated_with_boundary": 1611,
+  "mean_morphs_per_word": 1.835,
+  "sources": {
+    "morfessor": false,
+    "unimorph": true,
+    "sigmorphon": true
+  },
+  "morfessor_source": "none"
+}

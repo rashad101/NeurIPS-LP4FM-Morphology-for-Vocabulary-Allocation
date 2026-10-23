@@ -1,0 +1,34 @@
+{
+  "language": "eng",
+  "name": "English",
+  "family": "Germanic",
+  "morph_type": "analytic",
+  "n_sentences": 2009,
+  "n_candidate_types": 8728,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.2271,
+  "analyzer_coverage_sigmorphon": 0.4276,
+  "analyzer_coverage_annotated": 0.542,
+  "analyzer_coverage_any": 0.542,
+  "tier_counts_available": {
+    "A": 976,
+    "B": 3755,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "A": 976,
+    "B": 1024
+  },
+  "n_gold": 2000,
+  "n_gold_with_boundary": 1562,
+  "n_gold_annotated": 2000,
+  "n_gold_annotated_with_boundary": 1562,
+  "mean_morphs_per_word": 1.879,
+  "sources": {
+    "morfessor": false,
+    "unimorph": true,
+    "sigmorphon": true
+  },
+  "morfessor_source": "none"
+}

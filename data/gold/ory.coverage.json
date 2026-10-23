@@ -1,0 +1,31 @@
+{
+  "language": "ory",
+  "name": "Odia",
+  "family": "Indo-Aryan",
+  "morph_type": "fusional",
+  "n_sentences": 2009,
+  "n_candidate_types": 10117,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.0,
+  "analyzer_coverage_sigmorphon": 0.0,
+  "analyzer_coverage_annotated": 0.0,
+  "analyzer_coverage_any": 0.0,
+  "tier_counts_available": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {},
+  "n_gold": 0,
+  "n_gold_with_boundary": 0,
+  "n_gold_annotated": 0,
+  "n_gold_annotated_with_boundary": 0,
+  "mean_morphs_per_word": 0.0,
+  "sources": {
+    "morfessor": false,
+    "unimorph": false,
+    "sigmorphon": false
+  },
+  "morfessor_source": "none"
+}

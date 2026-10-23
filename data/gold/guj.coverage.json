@@ -1,0 +1,36 @@
+{
+  "language": "guj",
+  "name": "Gujarati",
+  "family": "Indo-Aryan",
+  "morph_type": "fusional",
+  "n_sentences": 2009,
+  "n_candidate_types": 11129,
+  "analyzer_coverage_morfessor": 0.7795,
+  "analyzer_coverage_unimorph": 0.012,
+  "analyzer_coverage_sigmorphon": 0.0,
+  "analyzer_coverage_annotated": 0.012,
+  "analyzer_coverage_any": 0.7797,
+  "tier_counts_available": {
+    "A": 36,
+    "B": 98,
+    "C": 4285,
+    "D": 3233
+  },
+  "tier_counts": {
+    "A": 36,
+    "B": 98,
+    "C": 1366,
+    "D": 500
+  },
+  "n_gold": 2000,
+  "n_gold_with_boundary": 1500,
+  "n_gold_annotated": 134,
+  "n_gold_annotated_with_boundary": 134,
+  "mean_morphs_per_word": 1.759,
+  "sources": {
+    "morfessor": true,
+    "unimorph": true,
+    "sigmorphon": false
+  },
+  "morfessor_source": "pretrained-indicnlp"
+}

@@ -1,0 +1,33 @@
+{
+  "language": "asm",
+  "name": "Assamese",
+  "family": "Indo-Aryan",
+  "morph_type": "fusional",
+  "n_sentences": 2009,
+  "n_candidate_types": 11498,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.0571,
+  "analyzer_coverage_sigmorphon": 0.0,
+  "analyzer_coverage_annotated": 0.0571,
+  "analyzer_coverage_any": 0.0571,
+  "tier_counts_available": {
+    "A": 0,
+    "B": 657,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "B": 657
+  },
+  "n_gold": 657,
+  "n_gold_with_boundary": 657,
+  "n_gold_annotated": 657,
+  "n_gold_annotated_with_boundary": 657,
+  "mean_morphs_per_word": 2.0,
+  "sources": {
+    "morfessor": false,
+    "unimorph": true,
+    "sigmorphon": false
+  },
+  "morfessor_source": "none"
+}

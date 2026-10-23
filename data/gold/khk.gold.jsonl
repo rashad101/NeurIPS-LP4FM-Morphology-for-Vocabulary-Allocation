@@ -1,0 +1,106 @@
+{"word": "болох", "freq": 107, "morphs": ["болох"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "зэрэг", "freq": 71, "morphs": ["зэрэг"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хэрэгтэй", "freq": 47, "morphs": ["хэрэг", "тэй"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "хүчтэй", "freq": 25, "morphs": ["хүч", "тэй"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "зүгт", "freq": 22, "morphs": ["зүг", "т"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "хувь", "freq": 20, "morphs": ["хувь"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "барих", "freq": 15, "morphs": ["барих"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "тэмцээний", "freq": 13, "morphs": ["тэмцээн", "ий"], "boundaries": [7], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "тэмдэг", "freq": 12, "morphs": ["тэмдэг"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "дүнтэй", "freq": 9, "morphs": ["дүн", "тэй"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "янзын", "freq": 9, "morphs": ["янз", "ын"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "хатуу", "freq": 8, "morphs": ["хатуу"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "оройн", "freq": 8, "morphs": ["орой", "н"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "төрөлд", "freq": 8, "morphs": ["төрөл", "д"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "шүүх", "freq": 7, "morphs": ["шүүх"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "төлөвтэй", "freq": 6, "morphs": ["төлөв", "тэй"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "маягийн", "freq": 6, "morphs": ["маяг", "ийн"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "алга", "freq": 6, "morphs": ["алга"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "тоог", "freq": 6, "morphs": ["тоо", "г"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "бүлэгт", "freq": 6, "morphs": ["бүлэг", "т"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "туслах", "freq": 6, "morphs": ["тус", "лах"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "далай", "freq": 6, "morphs": ["далай"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "дүнд", "freq": 5, "morphs": ["дүн", "д"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "онцгой", "freq": 5, "morphs": ["онцгой"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "дохио", "freq": 5, "morphs": ["дохио"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "баяртай", "freq": 4, "morphs": ["баяр", "тай"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "шугам", "freq": 4, "morphs": ["шугам"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "бэрхшээлтэй", "freq": 4, "morphs": ["бэрх", "шээл", "тэй"], "boundaries": [4, 8], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 3}
+{"word": "ертөнцийн", "freq": 4, "morphs": ["ертөнц", "ийн"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "интернет", "freq": 4, "morphs": ["интернет"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хортой", "freq": 4, "morphs": ["хор", "той"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "талын", "freq": 4, "morphs": ["тал", "ын"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "хүүхэдтэй", "freq": 4, "morphs": ["хүүхэд", "тэй"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "амьдрах", "freq": 4, "morphs": ["амь", "драх"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "талбай", "freq": 3, "morphs": ["талбай"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "аймшигт", "freq": 3, "morphs": ["аймшиг", "т"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "өсөх", "freq": 3, "morphs": ["өсөх"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "гариг", "freq": 3, "morphs": ["гариг"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "дүрэмтэй", "freq": 3, "morphs": ["дүрэм", "тэй"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "амьтан", "freq": 3, "morphs": ["амь", "тан"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "түүхтэй", "freq": 3, "morphs": ["түүх", "тэй"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "амрах", "freq": 3, "morphs": ["амрах"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хянах", "freq": 3, "morphs": ["хянах"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "замаас", "freq": 3, "morphs": ["зам", "аас"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "шүүс", "freq": 3, "morphs": ["шүүс"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хязгааргүй", "freq": 3, "morphs": ["хязгаар", "гүй"], "boundaries": [7], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "тэнгэрт", "freq": 2, "morphs": ["тэнгэр", "т"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "зүйлээ", "freq": 2, "morphs": ["зүйл", "ээ"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "хуульч", "freq": 2, "morphs": ["хууль", "ч"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "өдөрт", "freq": 2, "morphs": ["өдөр", "т"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "түвшинд", "freq": 2, "morphs": ["түвшин", "д"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "молекулын", "freq": 2, "morphs": ["молекул", "ын"], "boundaries": [7], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "үзүүр", "freq": 2, "morphs": ["үзүүр"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "чийдэн", "freq": 2, "morphs": ["чийдэн"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "чийдэнг", "freq": 2, "morphs": ["чийдэн", "г"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "төлөвт", "freq": 2, "morphs": ["төлөв", "т"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "биеэр", "freq": 2, "morphs": ["бие", "эр"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "амьтанд", "freq": 2, "morphs": ["амь", "тан", "д"], "boundaries": [3, 6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 3}
+{"word": "үнэлэх", "freq": 2, "morphs": ["үнэ", "лэх"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "гэрээ", "freq": 2, "morphs": ["гэр", "ээ"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "тэргүүн", "freq": 2, "morphs": ["тэргүүн"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "технологи", "freq": 2, "morphs": ["технологи"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хэмнэл", "freq": 2, "morphs": ["хэм", "нэл"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "голоос", "freq": 2, "morphs": ["гол", "оос"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "хөлсөөр", "freq": 1, "morphs": ["хөлс", "өөр"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "нүцгэн", "freq": 1, "morphs": ["нүцгэн"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "тосгоны", "freq": 1, "morphs": ["тосгон", "ы"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "чанга", "freq": 1, "morphs": ["чанга"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "шинжийг", "freq": 1, "morphs": ["шинж", "ийг"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "ястай", "freq": 1, "morphs": ["яс", "тай"], "boundaries": [2], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "зарчим", "freq": 1, "morphs": ["зарчим"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "эсээс", "freq": 1, "morphs": ["эс", "ээс"], "boundaries": [2], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "организмын", "freq": 1, "morphs": ["организм", "ын"], "boundaries": [8], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "амьтай", "freq": 1, "morphs": ["амь", "тай"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "эрдэмтэн", "freq": 1, "morphs": ["эрдэм", "тэн"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "автобусаар", "freq": 1, "morphs": ["автобус", "аар"], "boundaries": [7], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "зорчих", "freq": 1, "morphs": ["зорчих"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "уйтгартай", "freq": 1, "morphs": ["уйтгар", "тай"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "консулын", "freq": 1, "morphs": ["консул", "ын"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "тоног", "freq": 1, "morphs": ["тоног"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хүндээ", "freq": 1, "morphs": ["хүнд", "ээ"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "спирт", "freq": 1, "morphs": ["спирт"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "жороо", "freq": 1, "morphs": ["жор", "оо"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "бэрхшээлээс", "freq": 1, "morphs": ["бэрх", "шээл", "ээс"], "boundaries": [4, 8], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 3}
+{"word": "хулгай", "freq": 1, "morphs": ["хулгай"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "шийдэх", "freq": 1, "morphs": ["шийдэх"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "багана", "freq": 1, "morphs": ["багана"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "дискийг", "freq": 1, "morphs": ["диск", "ийг"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "шалгах", "freq": 1, "morphs": ["шалгах"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "тэнгистэй", "freq": 1, "morphs": ["тэнгис", "тэй"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "авиа", "freq": 1, "morphs": ["авиа"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хөрөг", "freq": 1, "morphs": ["хөрөг"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "хувцастай", "freq": 1, "morphs": ["хувцас", "тай"], "boundaries": [6], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "эрхтэй", "freq": 1, "morphs": ["эрх", "тэй"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "тэмцээнээ", "freq": 1, "morphs": ["тэмцээн", "ээ"], "boundaries": [7], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "буга", "freq": 1, "morphs": ["буга"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "үнэрээр", "freq": 1, "morphs": ["үнэр", "ээр"], "boundaries": [4], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "буурцагт", "freq": 1, "morphs": ["буурцаг", "т"], "boundaries": [7], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "бэрхшээлийг", "freq": 1, "morphs": ["бэрх", "шээл", "ийг"], "boundaries": [4, 8], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 3}
+{"word": "гэрээтэй", "freq": 1, "morphs": ["гэрээ", "тэй"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "сэнс", "freq": 1, "morphs": ["сэнс"], "boundaries": [], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 1}
+{"word": "биед", "freq": 1, "morphs": ["бие", "д"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "талтай", "freq": 1, "morphs": ["тал", "тай"], "boundaries": [3], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "шугамд", "freq": 1, "morphs": ["шугам", "д"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "шугамын", "freq": 1, "morphs": ["шугам", "ын"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}
+{"word": "цэцэглэх", "freq": 1, "morphs": ["цэцэг", "лэх"], "boundaries": [5], "tier": "B", "sources": ["sigmorphon"], "n_morphs": 2}

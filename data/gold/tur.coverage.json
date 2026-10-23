@@ -1,0 +1,33 @@
+{
+  "language": "tur",
+  "name": "Turkish",
+  "family": "Turkic",
+  "morph_type": "agglutinative",
+  "n_sentences": 2009,
+  "n_candidate_types": 14030,
+  "analyzer_coverage_morfessor": 0.0,
+  "analyzer_coverage_unimorph": 0.1531,
+  "analyzer_coverage_sigmorphon": 0.0,
+  "analyzer_coverage_annotated": 0.1531,
+  "analyzer_coverage_any": 0.1531,
+  "tier_counts_available": {
+    "A": 0,
+    "B": 2148,
+    "C": 0,
+    "D": 0
+  },
+  "tier_counts": {
+    "B": 2000
+  },
+  "n_gold": 2000,
+  "n_gold_with_boundary": 2000,
+  "n_gold_annotated": 2000,
+  "n_gold_annotated_with_boundary": 2000,
+  "mean_morphs_per_word": 2.0,
+  "sources": {
+    "morfessor": false,
+    "unimorph": true,
+    "sigmorphon": false
+  },
+  "morfessor_source": "none"
+}

@@ -1,0 +1,22 @@
+language,name,family,morph_type,n_sentences,n_candidate_types,analyzer_coverage_morfessor,analyzer_coverage_unimorph,analyzer_coverage_sigmorphon,analyzer_coverage_annotated,analyzer_coverage_any,n_gold,n_gold_with_boundary,n_gold_annotated,n_gold_annotated_with_boundary,mean_morphs_per_word,morfessor_source,tier_counts_available.A,tier_counts_available.B,tier_counts_available.C,tier_counts_available.D,tier_counts.B,sources.morfessor,sources.unimorph,sources.sigmorphon,tier_counts.A,tier_counts.C,tier_counts.D
+asm,Assamese,Indo-Aryan,fusional,2009,11498,0.0,0.0571,0.0,0.0571,0.0571,657,657,657,657,2.0,none,0,657,0,0,657.0,False,True,False,,,
+ben,Bengali,Indo-Aryan,fusional,2009,10455,0.724,0.0102,0.0,0.0102,0.7242,2000,1500,107,107,1.776,pretrained-indicnlp,76,31,3372,2733,31.0,True,True,False,76.0,1393.0,500.0
+ces,Czech,Slavic,fusional,2009,13751,0.0,0.199,0.3108,0.4244,0.4244,2000,1919,2000,1919,2.835,none,1025,4811,0,0,975.0,False,True,True,1025.0,,
+deu,German,Germanic,fusional,2009,11208,0.0,0.2621,0.0,0.2621,0.2621,2000,2000,2000,2000,2.0,none,0,2938,0,0,2000.0,False,True,False,,,
+eng,English,Germanic,analytic,2009,8728,0.0,0.2271,0.4276,0.542,0.542,2000,1562,2000,1562,1.879,none,976,3755,0,0,1024.0,False,True,True,976.0,,
+guj,Gujarati,Indo-Aryan,fusional,2009,11129,0.7795,0.012,0.0,0.012,0.7797,2000,1500,134,134,1.759,pretrained-indicnlp,36,98,4285,3233,98.0,True,True,False,36.0,1366.0,500.0
+hin,Hindi,Indo-Aryan,fusional,2009,7435,0.8592,0.0274,0.0,0.0274,0.8592,2000,1500,204,204,1.776,pretrained-indicnlp,78,126,2546,2810,126.0,True,True,False,78.0,1296.0,500.0
+hun,Hungarian,Uralic,agglutinative,2009,14008,0.0,0.4016,0.396,0.5418,0.5418,2000,2000,2000,2000,2.743,none,3577,4013,0,0,,False,True,True,2000.0,,
+kan,Kannada,Dravidian,agglutinative,2009,14343,0.8153,0.0206,0.0,0.0206,0.8155,2000,1500,295,295,1.755,pretrained-indicnlp,100,195,6364,4030,195.0,True,True,False,100.0,1205.0,500.0
+khk,Mongolian (Halh),Mongolic,agglutinative,2009,11417,0.0,0.0,0.0093,0.0093,0.0093,106,69,106,69,1.689,none,0,106,0,0,106.0,False,False,True,,,
+mal,Malayalam,Dravidian,agglutinative,2009,14978,0.5317,0.0,0.0,0.0,0.5317,2000,1500,0,0,1.772,pretrained-indicnlp,0,0,4940,1819,,True,False,False,,1500.0,500.0
+mar,Marathi,Indo-Aryan,fusional,2009,11974,0.7276,0.0,0.0,0.0,0.7276,2000,1500,0,0,1.764,pretrained-indicnlp,0,0,4565,3441,,True,False,False,,1500.0,500.0
+ory,Odia,Indo-Aryan,fusional,2009,10117,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,none,0,0,0,0,,False,False,False,,,
+pan,Punjabi,Indo-Aryan,fusional,2009,8015,0.525,0.0,0.0,0.0,0.525,2000,1500,0,0,1.797,pretrained-indicnlp,0,0,2041,906,,True,False,False,,1500.0,500.0
+rus,Russian,Slavic,fusional,2009,14594,0.0,0.4123,0.1327,0.4736,0.4736,2000,1887,2000,1887,1.988,none,1039,5872,0,0,961.0,False,True,True,1039.0,,
+spa,Spanish,Romance,fusional,2009,10262,0.0,0.4699,0.3121,0.6546,0.6546,2000,1611,2000,1611,1.835,none,1258,5460,0,0,742.0,False,True,True,1258.0,,
+swh,Swahili,Bantu,agglutinative,2009,9269,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,none,0,0,0,0,,False,False,False,,,
+tam,Tamil,Dravidian,agglutinative,2009,14056,0.83,0.0,0.0,0.0,0.83,2000,1500,0,0,1.756,pretrained-indicnlp,0,0,7233,4247,,True,False,False,,1500.0,500.0
+tel,Telugu,Dravidian,agglutinative,2009,12064,0.7723,0.0046,0.0,0.0046,0.7723,2000,1500,56,56,1.762,pretrained-indicnlp,33,23,5159,3429,23.0,True,True,False,33.0,1444.0,500.0
+tur,Turkish,Turkic,agglutinative,2009,14030,0.0,0.1531,0.0,0.1531,0.1531,2000,2000,2000,2000,2.0,none,0,2148,0,0,2000.0,False,True,False,,,
+urd,Urdu,Indo-Aryan,fusional,2009,7427,0.0,0.0166,0.0,0.0166,0.0166,123,123,123,123,2.0,none,0,123,0,0,123.0,False,True,False,,,
